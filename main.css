@@ -1,0 +1,41 @@
+body {
+    background-color: #b4a5fe;
+    font-family: "Courier New", Courier, monospace;
+}
+
+header {
+    background-color: #000000;
+    padding: 10px;
+}
+
+h1 {
+    color: #ffffff;
+    margin: 0;
+}
+
+h2 {
+    color: #070000;
+}
+
+nav > ul {
+    line-height: 2em;
+    list-style-type: none;
+    padding-left: 5px;
+    margin: 0;
+    background-color: #b4a5fe;
+}
+
+section {
+    background-color: #ffffff;
+    width: 75%;
+    font-size: 1.2em;
+    margin: 20px auto;
+    padding: 15px;
+}
+
+footer {
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+}
