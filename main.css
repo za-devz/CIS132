@@ -22,7 +22,13 @@ h1 {
     letter-spacing: 1px;
 }
 
-/* Navigation */
+h2 {
+    color: #3b5d4f;
+    border-left: 4px solid #c8e3d4;
+    padding-left: 8px;
+}
+
+/* Buttons */
 nav ul {
     list-style-type: none;
     margin: 0;
@@ -67,12 +73,6 @@ aside {
     background-color: #f2f7f4;
     padding: 15px;
     border-left: 2px solid #dfeee7;
-}
-
-h2 {
-    color: #3b5d4f;
-    border-left: 4px solid #c8e3d4;
-    padding-left: 8px;
 }
 
 /* Footer */
